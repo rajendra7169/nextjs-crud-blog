@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 async function getData() {
-  const res = await fetch("https://willowy-daffodil.netlify.app/api/posts", {
+  const res = await fetch("https://nextapp.rajendrapandey.info.np/api/posts", {
     cache: "no-store",
   });
 
