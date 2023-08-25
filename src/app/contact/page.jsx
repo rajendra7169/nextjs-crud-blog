@@ -21,7 +21,7 @@ const Contact = () => {
             className={styles.image}
           />
         </div>
-        <form className={styles.form}>
+        <form className={styles.form} method="post" netlify>
           <input type="text" placeholder="name" className={styles.input} />
           <input type="text" placeholder="email" className={styles.input} />
           <textarea
