@@ -6,13 +6,13 @@
 }
 
 .title {
-  color: #bbb;
+  color: #000;
 }
 
 .subtitle {
   font-size: 20px;
   margin-bottom: 30px;
-  color: #bbb;
+  color: #000;
 }
 
 .form {
@@ -28,7 +28,7 @@
   border: 2px solid #bbb;
   border-radius: 5px;
   outline: none;
-  color: #bbb;
+  color: #000;
   font-size: 20px;
   font-weight: bold;
 }
@@ -40,7 +40,7 @@
   background-color: #53c28b;
   border: none;
   border-radius: 5px;
-  color: #eee;
+  color: #fff;
   font-weight: bold;
 }
 
@@ -49,7 +49,7 @@
 }
 
 .or {
-  color: #bbb;
+  color: #9c9a9a;
 }
 
 .link {
