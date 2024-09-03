@@ -84,7 +84,7 @@ const Dashboard = () => {
               ))}
         </div>
         <form className={styles.new} onSubmit={handleSubmit}>
-          <h1>Add New Post</h1>
+          <h1>Add New Post (every field required)</h1>
           <input type="text" placeholder="Title" className={styles.input} />
           <input type="text" placeholder="Desc" className={styles.input} />
           <input type="text" placeholder="Image" className={styles.input} />
